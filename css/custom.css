@@ -1,0 +1,47 @@
+body{
+	background-color: #fff;
+	background-image: url("../img/frosted.jpg");
+	background-size: 100% 100%;
+	word-wrap: break-word;
+	-webkit-nbsp-mode: space; 
+	-webkit-line-break: after-white-space;
+}
+
+.form-control{
+	min-width: 0;
+    width: 74% !important;
+}
+
+#logo{
+	width: 60%;
+	height:15%;
+}
+
+#sub_logo{
+	width: 20%;
+	height:5%;
+}
+
+#header{
+	background-color:#F8F8F8 !important;
+	border-style: solid;
+	border-width: 1px;
+	border-radius: 10px;
+	border-color: blue;
+}
+
+#msg{
+	width: 75%;
+	height:45%;
+}
+
+#img{
+	width: 80%;
+	height: 15%;
+}
+
+#table{
+		overflow-x: scroll;
+		overflow-y:scroll;
+		height:60%;
+}
